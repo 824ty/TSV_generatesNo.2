@@ -17,6 +17,6 @@
   <img src="cdcarent.png" width="320px" ><br>
   *5．TSV＿generate100.pyがあるディレクトリまで移動したらプログラムを実行するために「Python　TSV＿generate100.py」と入力する。<br>*
   <img src="VScodePython.png" width="320px" ><br>
-  *6. 下図のようにTSV_generates100.pyを保存した場所でTSVファイルが「NO.○○ text.tsv」という形で100個生成されていれば正常に作動している。*
+  *6. 下図のようにTSV_generates100.pyを保存した場所でTSVファイルが「NO.○○ text.tsv」という形で100個生成されていれば正常に作動している。<br>*
   <img src="tsvfile.png" width="320px" ><br>
   
