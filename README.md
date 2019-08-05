@@ -11,6 +11,7 @@
   起動方法は以下の手順<br>
   1.VS Codeを起動する。<br>
   2.「Ctrl + ＠」を押し、ターミナルを起動させる。<br>
+  <img scr="tarminal.png" width="100" ><br>
   3．プログラムを起動させるディレクトリに移動するためまず「cd　Desktop」をターミナル上に入力し移動する。<br>
   4. それ以降はTSV＿generate100.pyがあるディレクトリに移動する。下図では「cd job/job-master」として移動している。<br>
   5．TSV＿generate100.pyがあるディレクトリまで移動したらプログラムを実行するために「Python　TSV＿generate100.py」と入力する。<br>
