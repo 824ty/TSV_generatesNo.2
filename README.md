@@ -1,4 +1,4 @@
-#  TSV＿generate100.pyの仕様書(インストール・起動方法)<h2>
+#  TSV＿generate100.pyの仕様書(起動方法のみ)<h2>
 
 ##  前提条件<h3>
   この仕様書はTSV＿generate100.pyを使用する手順を記したものである。<br>
