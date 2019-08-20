@@ -17,7 +17,7 @@
 このPythonプログラムを必要とする人は以下の通り。  
 
     ・多数のサンプルデータが欲しい。  
-    ・TSVファイルを取得したい。  
+    ・多数のTSVファイルを取得したい。  
     ・Exelファイルを取得したい。
 
 ##  必要条件
@@ -29,8 +29,8 @@
 
 ##  具体的な仕様  
 このPythonプログラムの具体的な仕様は以下のようになっている。  
-*・タグ(ログID・日時・経度・緯度を表示した行)を含め10001行のデータとなる。  
-・TSVファイル1つの大きさは782KB。   
+*・指定したデータ数＋１(タグ(ログID・日時・経度・緯度を表示した行))行のデータとなる。  
+・ファイル数も自由に指定することが出来る。  
 ・1つ1つのデータはすべてランダムな要素で構成されており、他のデータと重複する可能性は低い。*  
 
 #### ログID  
@@ -61,8 +61,8 @@
 
 ##  ダウンロード方法
 このPythonプログラムのダウンロード方法は以下の通り。  
-・URL(https://github.com/824ty/TSV_generatesNo.2) をクリックでアクセスし、下図の手順でURLを取得する。  
-<img src = "https://github.com/824ty/TSV_generatesNo.2/blob/master/images/selectdownload.png" width = 400px>  
+・URL() をクリックでアクセスし、下図の手順でURLを取得する。  
+<img src = "" width = 400px>  
 ・「Windows」キー　 + 「x」キーを同時に押すと下図のメニューが表示される。 
   その中の「コマンドプロンプト」をクリックし、起動する。  
 <img src = "https://github.com/824ty/job/blob/master/TSV_generatesNo2/image/cmdimage.png" width = 200px>  
@@ -82,7 +82,7 @@
 <img src = "https://github.com/824ty/job/blob/master/TSV_generatesNo2/image/gitclone.png" width = 400px>  
 
 ・実際に下図のようにjobファイルがコピーされ、内部にPythonプログラムがあればダウンロード完了となる。  
-<img src = "https://github.com/824ty/TSV_generatesNo.2/blob/master/images/selectclone.png" width = 400px>  
+<img src = "" width = 400px>  
 
 
 ##  使い方
