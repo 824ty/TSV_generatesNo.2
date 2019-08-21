@@ -62,7 +62,7 @@
 ##  ダウンロード方法
 このPythonプログラムのダウンロード方法は以下の通り。  
 ・URL(https://github.com/824ty/TSV_generatesNo.2) をクリックでアクセスし、下図の手順でURLを取得する。  
-<img src = "" width = 400px>  
+<img src = "https://github.com/824ty/TSV_generatesNo.2/blob/master/images/TSV_select1.png" width = 400px>  
 ・「Windows」キー　 + 「x」キーを同時に押すと下図のメニューが表示される。 
   その中の「コマンドプロンプト」をクリックし、起動する。  
 <img src = "https://github.com/824ty/job/blob/master/TSV_generatesNo2/image/cmdimage.png" width = 200px>  
@@ -82,10 +82,10 @@
 	git pull origin master 
 
 ・下図のような表記がされれば正常に入力したコマンドが作動している。  
-<img src = "" width = 400px>  
+<img src = "https://github.com/824ty/TSV_generatesNo.2/blob/master/images/TSV_select2.png" width = 400px>  
 
 ・実際に下図のようにTSV_selectNo.2ファイルがコピーされ、内部にPythonプログラムがあればダウンロード完了となる。  
-<img src = "" width = 400px>  
+<img src = "https://github.com/824ty/TSV_generatesNo.2/blob/master/images/TSV_select3.png" width = 400px>  
 
 
 ##  使い方
@@ -96,8 +96,8 @@
 
 ・この問いに関して、任意の数字を入力することで複数のTSVファイルを生成することが出来る。 
 　データ行数とファイル数の入力は必須となっている為必ず入力すること。入力しないとエラー文が出る。  
-　入力後、下図のように生成中のロード画面と生成後に「○○　file generated」と表示されれば正常に作動している。  
-<img src = "" width = 400px>   
+　入力後、下図のように生成中のロード画面と生成中に「○○　file generating」と表示されれば正常に作動している。  
+<img src = "https://github.com/824ty/TSV_generatesNo.2/blob/master/images/TSV_select4.png" width = 400px>   
 
 
 ##  制約条件
