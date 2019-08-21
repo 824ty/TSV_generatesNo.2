@@ -96,7 +96,7 @@
 
 ・この問いに関して、任意の数字を入力することで複数のTSVファイルを生成することが出来る。 
 　データ行数とファイル数の入力は必須となっている為必ず入力すること。入力しないとエラー文が出る。  
-　入力後、下図のように生成中のロード画面と生成中に「○○　file generating」と表示されれば正常に作動している。  
+　入力後、下図のように生成中のロード画面と生成中に「○○　files generating」と表示されれば正常に作動している。  
 <img src = "https://github.com/824ty/TSV_generatesNo.2/blob/master/images/TSV_select4.png" width = 400px>   
 
 
