@@ -51,7 +51,7 @@ try:
                     long = random.uniform(134, 139)
                     writer.writerow({"log_id": log, "date" : timestwo, "latitude": ('{:.6f}'.format(lat)), "longitude":  ('{:.6f}'.format(long))})
     elif len(value) > 3:
-        print("引数が多いです。データ数、ファイル数の順に引数を入力してください。")
+        print("引数が多いです。データ数、ファイル数の順に引数を2つ入力してください。")
 except IndexError:
-    print("引数が少ないです。データ数、ファイル数の順に引数を入力してください。")
+    print("引数が少ないです。データ数、ファイル数の順に引数を2つ入力してください。")
 
